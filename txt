@@ -1,0 +1,2 @@
+An alternative privacy-friendly YouTube frontend which is efficient by design.
+Browse Piped without your teachers knowing with About:Blank!
